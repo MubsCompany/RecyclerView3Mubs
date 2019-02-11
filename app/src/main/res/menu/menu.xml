@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="First"
+        app:showAsAction="withText"
+        android:id="@+id/mn_satu" />
+<item
+        android:title="Second"
+        app:showAsAction="withText"
+        android:id="@+id/mn_dua"/>
+<item
+        android:title="Third"
+        app:showAsAction="withText"
+        android:id="@+id/mn_tiga"/>
+
+</menu>
